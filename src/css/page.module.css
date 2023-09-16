@@ -1,0 +1,7 @@
+
+body {
+    display: grid;
+    position: relative;
+    background-color: rgb(102, 52, 218);
+    overflow-x: hidden;
+}

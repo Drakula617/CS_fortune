@@ -1,0 +1,89 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"AK-47 | Nightwish",
+            "img_url": "https://wiki.swapskins.com/storage/skins/img/ak-47-nightwish.png"
+        },
+        {
+            "id":2,
+            "name":"AK-47 | Panthera onca",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/ak-47-panthera-onca.png"
+        },
+        {
+            "id":3,
+            "name":"AK-47 | Золотая арабеска",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/ak-47-gold-arabesque.png"
+        },
+        {
+            "id":4,
+            "name":"M4A4 | Пиксельный камуфляж",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/m4a4-urban-ddpat.png"
+        },
+        {
+            "id":5,
+            "name":"M4A4 | Радиационная опаснос",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/m4a4-radiation-hazard.png"
+        },
+        {
+            "id":6,
+            "name":"Desert Eagle | Океанское побережье",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/desert-eagle-ocean-drive.png"
+        },
+        {
+            "id":7,
+            "name":"Desert Eagle | Буря на закате",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/desert-eagle-sunset-storm-2.png"
+        },
+        {
+            "id":8,
+            "name":"XM1014 | Горелка Теклу",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/xm1014-teclu-burner.png"
+        },
+        {
+            "id":9,
+            "name":"Револьвер R8 | Градиент",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/r8-revolver-fade.png"
+        },
+        {
+            "id":10,
+            "name":"SG 553 | Дикая моль",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/sg-553-tiger-moth.png"
+        },
+        {
+            "id":11,
+            "name":"Five-SeveN | Дань прошлому",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/five-seven-retrobution.png"
+        },
+        {
+            "id":12,
+            "name":"AUG | Рикошет",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/aug-ricochet.png"
+        },
+        {
+            "id":13,
+            "name":"Револьвер R8 | Кровавая паутина",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/r8-revolver-crimson-web.png"
+        },
+        {
+            "id":14,
+            "name":"Negev | Погрузчик",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/negev-power-loader.png"
+        },
+        {
+            "id":15,
+            "name":"P90 | Резной приклад",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/p90-shapewood.png"
+        },
+        {
+            "id":16,
+            "name":"PP-Bizon | Топливный стержень",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/pp-bizon-fuel-rod.png"
+        },
+        {
+            "id":17,
+            "name":"AK-47 | Буйство красок",
+            "img_url":"https://wiki.swapskins.com/storage/skins/img/ak-47-point-disarray.png"
+        }
+    ]
+}
